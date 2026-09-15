@@ -1,0 +1,6 @@
+Feature set,R2,MAE,RMSE
+Hours only,0.214,2.475,3.361
+Hours + Attendance,0.52,1.556,2.627
+Hours + Sleep,0.215,2.474,3.359
+Hours + Previous_Scores,0.24,2.416,3.304
+All features,0.574,1.344,2.473
